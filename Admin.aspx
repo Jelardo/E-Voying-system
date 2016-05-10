@@ -6,6 +6,7 @@
         <br>
         <br>
         <br>
+        <br>
         <center><span class="group-btn"><asp:Button ID="Button1" runat="server" Text="Manage Candidate" class="btn btn-primary btn-md" Width="200PX" /></span></center>
         <br>
         <br>
